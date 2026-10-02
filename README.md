@@ -2,6 +2,17 @@
 
 这是一个配合 **WxPush** 项目使用的消息推送皮肤项目。它提供了美观的 UI 界面，用于展示微信推送的消息内容。
 
+## 🎬 视频教学
+
+我们制作了详细的视频教程，手把手教您如何完成所有部署步骤。如果您偏爱视频指导，请点击下方链接观看：
+
+[<img src="https://look.pics.cloudns.ch/img/极简微信消息推送服务-封面.jpg" alt="点击观看视频教程" width="480">](https://youtu.be/sE1Kcol_XRs?si=G-UbUGlMhyysv-US)  
+
+[<img src="https://look.pics.cloudns.ch/img/%E5%A6%82%E4%BD%95%E7%A8%B3%E5%AE%9A%E9%83%A8%E7%BD%B2wxpushskin%E9%A1%B9%E7%9B%AE-%E5%B0%81%E9%9D%A2.jpg" alt="点击观看视频教程" width="480">](https://www.youtube.com/watch?v=Hf5_LOyjLWU)
+
+*点击上方图片或链接，即可跳转到 YouTube 观看视频教程。*
+
+
 本项目包含三个核心文件，分别适用于不同的部署环境：
 
 ## 文件说明
